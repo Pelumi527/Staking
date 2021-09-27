@@ -41,6 +41,3 @@ Then, copy the deployment address and paste it in to replace `DEPLOYED_CONTRACT_
 ```shell
 npx hardhat verify --network ropsten DEPLOYED_CONTRACT_ADDRESS "Hello, Hardhat!"
 ```
-=======
-# Staking
->>>>>>> b91783760323ec1b6eeeb45faa58fb77a5d5b549
