@@ -1,3 +1,6 @@
+# A staking contract.
+
+
 <<<<<<< HEAD
 # Advanced Sample Hardhat Project
 
